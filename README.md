@@ -1,4 +1,4 @@
-<ins>Labs and Experiments</ins>
+<ins>Laboratory Experiments</ins>
 
 Incomplete:
 
