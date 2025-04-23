@@ -2,12 +2,8 @@
 
 Incomplete:
 
->Cover Page
->
->Table of Contents
->
 >Photography
 >
->Material, equipment, and chemical list
+>Equipment and chemicals
 >
->The International Standard Book Number (ISBN)
+>International Standard Book Number (ISBN)
